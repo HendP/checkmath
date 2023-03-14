@@ -1,4 +1,4 @@
-# checkmath
+# Checkmath
 
 Game kuis dengan tema matematika tingkat SD, SMP dan SMA pada platform desktop yang dibuat pada tahun 2017 sebagai tugas kuliah pemilik repository ini dan tim.
 
