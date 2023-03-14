@@ -2,6 +2,13 @@
 
 Game kuis dengan tema matematika tingkat SD, SMP dan SMA pada platform desktop yang dibuat pada tahun 2017 sebagai tugas kuliah pemilik repository ini dan tim.
 
+# System Requirement
+
+- IDE Netbeans 8.2
+- JDK 8
+
+# Screenshots
+
 <details>
 
 ![image](https://user-images.githubusercontent.com/13878786/224557225-da288c7f-6e73-4541-a816-e05bb229a111.png)
